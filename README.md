@@ -16,6 +16,7 @@ Existing code was restructured by replacing generic div elements with semantic H
 Here are the links!
 
 GitHub Pages: https://kasaipreston.github.io/code-refactoring/
+
 GitHub Repository: https://github.com/kasaipreston/code-refactoring
 
-![Horiseon webpage](assets/image/horiseon-website.jpg)
+![Horiseon webpage](assets/images/screenshot.jpg)
