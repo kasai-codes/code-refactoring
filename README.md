@@ -1,3 +1,5 @@
+# Code Refactoring
+
 ## Outline
 
 Horiseon is a social media marketing organization that specializes in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. On their website clients will find a general overveiw of the main services they provide. Horiseon has requested that their existing code be modified to meet accessibility standards.
