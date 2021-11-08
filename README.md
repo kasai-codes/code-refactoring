@@ -21,4 +21,4 @@ GitHub Pages: https://kasaipreston.github.io/code-refactoring/
 
 GitHub Repository: https://github.com/kasaipreston/code-refactoring
 
-![Horiseon webpage](assets/images/screenshot1.jpg)
+![Horiseon webpage](assets/images/01-html-css-git-homework-demo.png)
