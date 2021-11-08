@@ -15,10 +15,10 @@ Website accessibility is of utmost importance because it allows visitors that ma
 Existing code was restructured by replacing generic div elements with semantic HTML elements and condensing CSS selectors as well as adding comments to both HTML and CSS files so the code is easier to read for future development.
 
 ## Preview
-Here are the links!
+Have a look.
 
 GitHub Pages: https://kasaipreston.github.io/code-refactoring/
 
 GitHub Repository: https://github.com/kasaipreston/code-refactoring
 
-![Horiseon webpage](assets/images/screenshot.jpg)
+![Horiseon webpage](assets/images/screenshot1.jpg)
